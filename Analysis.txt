@@ -1,0 +1,9 @@
+As a precursor, it is not as easy to analyze data with an incomplete set of data visualization graphs. Unfortunately, time management and other constraints resulted in an incomplete assignment, making my data analysis abbreviated.
+
+When analyzing the scatter plots there are three major conclusions that can be seen visually. 
+
+Tumors responded to two of the drugs, Capomulin and Ramicane, much more than the others. The total volume decrease while using these two drugs. During testing of the rest of the drugs as well as the placebo, the tumor volume continued to grow. 
+
+Similarly, the number of metastatic sites increased at a lower rate with these two drugs. As to be expexted, the number of metastatic sites increased the most for the placebo users.
+
+When analyzing the survival rate of the mice in the study, we can consider the placebo data to be the baseline for how the tumors would react. It is important to note the drugs that result in a lower survival rate than if the tumors were left alone. The two drugs that reduced the tumor volume, also had a much higher survival rate. This continues to support the data that these two drugs should move forward for futher testing.
